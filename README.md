@@ -1,7 +1,6 @@
 # laribertoin6
 !DOCTYPE html>
-<html lang="pt-BR">
-<head>
+<html lang="pt-BR"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
@@ -125,13 +124,3 @@ main {
 img {
     max-width: 90%;
 }
-1 commit comments
-Comments
-1
- (1)
-
-on Aug 6
-1projeto final
-
-This conversation has been locked and limited to collaborators.
-You're not receiving notifications from this thread.
